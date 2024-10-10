@@ -1,0 +1,17 @@
+{
+  "name": "usermodulo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "uuid": "^10.0.0",
+    "uuid4": "^2.0.3"
+  }
+}
